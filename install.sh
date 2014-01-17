@@ -4,4 +4,4 @@ sudo apt-get install git
 
 sudo apt-get install -y git gitk kdiff3 pkg-config build-essential autogen autoconf pkg-config vlc
 
-sudo apt-get install ubuntu-restricted-extras
+sudo apt-get install -y ubuntu-restricted-extras
