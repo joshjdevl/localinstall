@@ -8,3 +8,6 @@ sudo apt-get install -y ubuntu-restricted-extras
 
 https://help.ubuntu.com/community/AutomaticSecurityUpdates
 sudo dpkg-reconfigure -plow unattended-upgrades
+
+echo "sudo vi /etc/apt/apt.conf.d/10periodic"
+cat periodic
