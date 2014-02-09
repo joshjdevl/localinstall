@@ -6,7 +6,7 @@ sudo apt-get install -y git gitk kdiff3 pkg-config build-essential autogen autoc
 
 sudo apt-get install -y ubuntu-restricted-extras
 
-https://help.ubuntu.com/community/AutomaticSecurityUpdates
+#https://help.ubuntu.com/community/AutomaticSecurityUpdates
 sudo dpkg-reconfigure -plow unattended-upgrades
 
 echo "sudo vi /etc/apt/apt.conf.d/10periodic"
