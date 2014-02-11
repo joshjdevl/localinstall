@@ -11,6 +11,8 @@ sudo apt-get install -y python-gpgme
 wget https://raw.github.com/pypa/pip/master/contrib/get-pip.py
 sudo python get-pip.py
 
+sudo apt-get install -y texlive-full
+
 sudo blkid
 
 echo "sudo mount -fav"
