@@ -12,6 +12,24 @@ android update sdk --no-ui --filter 'platform-tools'
 
 brew install gradle maven
 
-brew cask install firefox google-chrome cask
+brew cask install firefox google-chrome 
 
-#priv8 ublock-origin 
+brew install homebrew/x11/meld
+
+brew cask install keepassx
+
+brew install Caskroom/cask/slack
+
+brew install python
+
+brew install postgis htop
+
+brew install Caskroom/cask/qbittorrent
+
+brew install Caskroom/cask/adobe-reader
+
+#xcode numbers pages keynote
+#priv8 ublock-origin  adblock plus privacy badger disconnect.me https-everywhere
+#https://addons.mozilla.org/en-US/firefox/addon/disconnectsearch/
+#osxfuse veracrypt
+#mactex
