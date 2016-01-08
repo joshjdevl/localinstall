@@ -28,6 +28,12 @@ brew install Caskroom/cask/qbittorrent
 
 brew install Caskroom/cask/adobe-reader
 
+brew cask install vlc
+
+brew tap homebrew/science
+
+brew install R
+
 #xcode numbers pages keynote
 #priv8 ublock-origin  adblock plus privacy badger disconnect.me https-everywhere
 #https://addons.mozilla.org/en-US/firefox/addon/disconnectsearch/
